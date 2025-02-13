@@ -1,0 +1,8 @@
+.container-header2 {
+    height: 50px;
+    background-color: rgba(134, 25, 134, 0.842);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}

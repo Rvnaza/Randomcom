@@ -1,0 +1,6 @@
+.container-randomcom{
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
